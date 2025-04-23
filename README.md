@@ -1,7 +1,6 @@
 # Programmeur Web  |  LEA.6Q – Techniques informatiques
 
-
-
+[![App Platorm](https://github.com/CO-AEC-ProgWeb/.github/blob/main/logo_CegepOutaouais_horizontal.svg)](https://fc.cegepoutaouais.qc.ca/)
 
 ## Description du programme
 ### Objectif du programme
